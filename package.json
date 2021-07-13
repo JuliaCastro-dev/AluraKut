@@ -16,5 +16,9 @@
   "devDependencies": {
     "babel-plugin-styled-components": "^1.12.0"
   },
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }.
   "license": "MIT"
 }
+
